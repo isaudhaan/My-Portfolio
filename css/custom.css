@@ -1,2 +1,9 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+
+/* Keep keyboard focus visible on light and dark backgrounds. */
+a:focus, button:focus, input:focus, textarea:focus {
+    outline: 3px solid #1676c4 !important;
+    outline-offset: 3px;
+    box-shadow: 0 0 0 3px #fff !important;
+}

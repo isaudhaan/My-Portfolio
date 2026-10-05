@@ -1,0 +1,322 @@
+[
+  {
+    "path": "css/animate.css",
+    "bytes": 56693
+  },
+  {
+    "path": "css/camera.css",
+    "bytes": 27463
+  },
+  {
+    "path": "css/custom.css",
+    "bytes": 270
+  },
+  {
+    "path": "css/flaticon.css",
+    "bytes": 1116
+  },
+  {
+    "path": "css/font-awesome.css",
+    "bytes": 37333
+  },
+  {
+    "path": "css/font-awesome.min.css",
+    "bytes": 29067
+  },
+  {
+    "path": "css/owl.carousel.css",
+    "bytes": 3449
+  },
+  {
+    "path": "css/prettyPhoto.css",
+    "bytes": 20057
+  },
+  {
+    "path": "css/responsive.css",
+    "bytes": 2694
+  },
+  {
+    "path": "css/versions.css",
+    "bytes": 5681
+  },
+  {
+    "path": "js/all.js",
+    "bytes": 299445
+  },
+  {
+    "path": "js/animate.js",
+    "bytes": 9125
+  },
+  {
+    "path": "js/headline.js",
+    "bytes": 5685
+  },
+  {
+    "path": "js/hoverdir.js",
+    "bytes": 5644
+  },
+  {
+    "path": "js/images-loded.min.js",
+    "bytes": 5565
+  },
+  {
+    "path": "js/isotope.min.js",
+    "bytes": 35324
+  },
+  {
+    "path": "js/jqBootstrapValidation.js",
+    "bytes": 38110
+  },
+  {
+    "path": "js/jquery.easing.1.3.js",
+    "bytes": 8301
+  },
+  {
+    "path": "js/jquery.prettyPhoto.js",
+    "bytes": 21512
+  },
+  {
+    "path": "js/jquery.vide.js",
+    "bytes": 12523
+  },
+  {
+    "path": "js/map.js",
+    "bytes": 1473
+  },
+  {
+    "path": "js/modernizr.js",
+    "bytes": 15253
+  },
+  {
+    "path": "js/owl.carousel.js",
+    "bytes": 88366
+  },
+  {
+    "path": "js/parallaxie.js",
+    "bytes": 2070
+  },
+  {
+    "path": "js/portfolio.js",
+    "bytes": 2566
+  },
+  {
+    "path": "js/retina.js",
+    "bytes": 7414
+  },
+  {
+    "path": "js/scroll.js",
+    "bytes": 18610
+  },
+  {
+    "path": "fonts/Flaticon.eot",
+    "bytes": 5250
+  },
+  {
+    "path": "fonts/Flaticon.svg",
+    "bytes": 23725
+  },
+  {
+    "path": "fonts/Flaticon.ttf",
+    "bytes": 5072
+  },
+  {
+    "path": "fonts/Flaticon.woff",
+    "bytes": 3492
+  },
+  {
+    "path": "fonts/fontawesome-webfont.eot",
+    "bytes": 76518
+  },
+  {
+    "path": "fonts/fontawesome-webfont.svg",
+    "bytes": 392306
+  },
+  {
+    "path": "fonts/fontawesome-webfont.ttf",
+    "bytes": 152796
+  },
+  {
+    "path": "fonts/fontawesome-webfont.woff",
+    "bytes": 90412
+  },
+  {
+    "path": "fonts/fontawesome-webfont.woff2",
+    "bytes": 71896
+  },
+  {
+    "path": "fonts/FontAwesome.otf",
+    "bytes": 124988
+  },
+  {
+    "path": "fonts/glyphicons-halflings-regular.eot",
+    "bytes": 20127
+  },
+  {
+    "path": "fonts/glyphicons-halflings-regular.svg",
+    "bytes": 109025
+  },
+  {
+    "path": "fonts/glyphicons-halflings-regular.ttf",
+    "bytes": 45404
+  },
+  {
+    "path": "fonts/glyphicons-halflings-regular.woff",
+    "bytes": 23424
+  },
+  {
+    "path": "fonts/glyphicons-halflings-regular.woff2",
+    "bytes": 18028
+  },
+  {
+    "path": "images/prettyPhoto/dark_rounded\\btnNext.png",
+    "bytes": 1411
+  },
+  {
+    "path": "images/prettyPhoto/dark_rounded\\btnPrevious.png",
+    "bytes": 1442
+  },
+  {
+    "path": "images/prettyPhoto/dark_rounded\\contentPattern.png",
+    "bytes": 130
+  },
+  {
+    "path": "images/prettyPhoto/dark_rounded\\default_thumbnail.gif",
+    "bytes": 227
+  },
+  {
+    "path": "images/prettyPhoto/dark_rounded\\loader.gif",
+    "bytes": 2545
+  },
+  {
+    "path": "images/prettyPhoto/dark_rounded\\sprite.png",
+    "bytes": 4076
+  },
+  {
+    "path": "images/prettyPhoto/dark_square\\btnNext.png",
+    "bytes": 1411
+  },
+  {
+    "path": "images/prettyPhoto/dark_square\\btnPrevious.png",
+    "bytes": 1442
+  },
+  {
+    "path": "images/prettyPhoto/dark_square\\contentPattern.png",
+    "bytes": 121
+  },
+  {
+    "path": "images/prettyPhoto/dark_square\\default_thumbnail.gif",
+    "bytes": 227
+  },
+  {
+    "path": "images/prettyPhoto/dark_square\\loader.gif",
+    "bytes": 2545
+  },
+  {
+    "path": "images/prettyPhoto/dark_square\\sprite.png",
+    "bytes": 3507
+  },
+  {
+    "path": "images/prettyPhoto/default\\default_thumb.png",
+    "bytes": 1537
+  },
+  {
+    "path": "images/prettyPhoto/default\\loader.gif",
+    "bytes": 6331
+  },
+  {
+    "path": "images/prettyPhoto/default\\sprite.png",
+    "bytes": 6682
+  },
+  {
+    "path": "images/prettyPhoto/default\\sprite_next.png",
+    "bytes": 1358
+  },
+  {
+    "path": "images/prettyPhoto/default\\sprite_prev.png",
+    "bytes": 1376
+  },
+  {
+    "path": "images/prettyPhoto/default\\sprite_x.png",
+    "bytes": 1097
+  },
+  {
+    "path": "images/prettyPhoto/default\\sprite_y.png",
+    "bytes": 1162
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\btnNext.png",
+    "bytes": 845
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\btnPrevious.png",
+    "bytes": 828
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\contentPatternBottom.png",
+    "bytes": 142
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\contentPatternLeft.png",
+    "bytes": 137
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\contentPatternRight.png",
+    "bytes": 136
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\contentPatternTop.png",
+    "bytes": 142
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\default_thumbnail.gif",
+    "bytes": 227
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\loader.gif",
+    "bytes": 2545
+  },
+  {
+    "path": "images/prettyPhoto/facebook\\sprite.png",
+    "bytes": 4227
+  },
+  {
+    "path": "images/prettyPhoto/light_rounded\\btnNext.png",
+    "bytes": 1411
+  },
+  {
+    "path": "images/prettyPhoto/light_rounded\\btnPrevious.png",
+    "bytes": 1442
+  },
+  {
+    "path": "images/prettyPhoto/light_rounded\\default_thumbnail.gif",
+    "bytes": 227
+  },
+  {
+    "path": "images/prettyPhoto/light_rounded\\loader.gif",
+    "bytes": 2545
+  },
+  {
+    "path": "images/prettyPhoto/light_rounded\\sprite.png",
+    "bytes": 4099
+  },
+  {
+    "path": "images/prettyPhoto/light_square\\btnNext.png",
+    "bytes": 1411
+  },
+  {
+    "path": "images/prettyPhoto/light_square\\btnPrevious.png",
+    "bytes": 1442
+  },
+  {
+    "path": "images/prettyPhoto/light_square\\default_thumbnail.gif",
+    "bytes": 227
+  },
+  {
+    "path": "images/prettyPhoto/light_square\\loader.gif",
+    "bytes": 2545
+  },
+  {
+    "path": "images/prettyPhoto/light_square\\sprite.png",
+    "bytes": 3507
+  }
+]
